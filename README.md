@@ -20,6 +20,10 @@ Uses 50 QSAR datasets from ChEMBL (Randomly picked 50 datasets from study by I. 
 1. Prolog facts (atom, bonds, functional groups, rings, targets)
 2. Arff files
 
+#### Shell scripts
+
+The shell scripts (sh or bash) were used for various purpose in the experiments. You may choose not to use them. These are just for backup for myself.
+
 
 ##### Note: 
 There may be some duplicates in pl files. 
