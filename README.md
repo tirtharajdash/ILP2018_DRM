@@ -3,7 +3,7 @@ Large Scale Assessment of Deep Relational Machines (DRM) - Classification and Re
 
 Submitted to International Conference on Inductive Logic Programming (ILP) 2018, Italy
 
-#### Codes will be made available after acceptance (ofcourse, accepted).
+#### Codes will be made available after acceptance (ofcourse, after it gets accepted; may not be available if the paper is rejected. We may need to improve over it.).
 
 
 #### Classification
