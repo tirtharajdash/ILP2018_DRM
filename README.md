@@ -20,6 +20,11 @@ Uses 50 QSAR datasets from ChEMBL (Randomly picked 50 datasets from study by I. 
 Arff files available.
 
 
+#### Results
+
+Invidual dataset results are posted in another GitHub link, as the works are related. Here it is: https://github.com/tirtharajdash/ICANN2019_DRM
+
+
 #### Shell scripts
 
 The shell scripts (sh or bash) were used for various purpose in the experiments. You may choose not to use them. These are just for backup for myself.
