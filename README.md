@@ -25,6 +25,20 @@ Arff files available.
 Invidual dataset results are posted in another GitHub link, as the works are related. Here it is: https://github.com/tirtharajdash/ICANN2019_DRM
 
 
+#### Cite
+
+```
+@inproceedings{dash2018large,
+  title={Large-scale assessment of deep relational machines},
+  author={Dash, Tirtharaj and Srinivasan, Ashwin and Vig, Lovekesh and Orhobor, Oghenejokpeme I and King, Ross D},
+  booktitle={International Conference on Inductive Logic Programming},
+  pages={22--37},
+  year={2018},
+  organization={Springer}
+}
+```
+
+
 #### Shell scripts
 
 The shell scripts (sh or bash) were used for various purpose in the experiments. You may choose not to use them. These are just for backup for myself.
